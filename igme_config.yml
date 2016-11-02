@@ -1,0 +1,16 @@
+series: Basic C++
+title: The Const Keyword
+author:
+  name: David Erbelding
+  email: daviderbelding@gmail.com
+  github: https://github.com/Erbelding
+description: Make your code const correct to avoid making mistakes.
+language: C++
+tags:
+  - Core
+extra_resources:
+connections:
+  - series: Basic C++
+    title: Constructors and Destructors
+  - series: Basic C++
+    title: Pointers
