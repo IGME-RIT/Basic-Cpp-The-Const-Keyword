@@ -21,7 +21,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // Include iostream for output during the program.
 #include <iostream>
 using namespace std;
-#include "../header/gun.h"
+#include "gun.h"
 
 int main()
 {
